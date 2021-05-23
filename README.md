@@ -17,4 +17,5 @@ Train and Deploy is a code-along event where students will learn about different
 
 ## Speakers
 
-Chakita M   |  Supreeth Kurpad 
+Chakita M  - Machine Learning
+Supreeth Kurpad - Web Dev
