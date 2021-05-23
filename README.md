@@ -1,4 +1,4 @@
-# Train & Deploy
+# Train & Deploy | GDSC PESU RR
 ## _23rd May, 2021_
 
 Please clone this repository.
